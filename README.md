@@ -52,6 +52,8 @@
 
     <div class="container-fluid">
       <!-- Nav Bar -->
+
+      
       <nav class="navbar navbar-expand-lg">
         <a class="navbar-brand" href="">HzWallpaper</a>
         <div>
@@ -68,8 +70,31 @@
           </ul>
         </div>
       </nav>
-
-
+<!--
+<div class="collapse " id="navbarToggleExternalContent">
+  <a class="navbar-brand" href="">HzWallpaper</a>
+  <div class="p-4">
+    <ul class="navbar-nav ml-auto">
+      <li class="nav-item">
+        <a class="nav-link" href="mailto:playgamegamerszone@gmail.com"">Contact</a>
+      </li>
+      <li class=" nav-item">
+          <a class="nav-link" href="#features">Features</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#testimonials">Testimonials</a>
+      </li>
+    </ul>
+  </div>
+</div>
+<nav class="navbar navbar-expand-lg">
+  <div class="container-fluid">
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+  </div>
+</nav>
+-->
 
       <!-- Title -->
 
@@ -207,6 +232,8 @@
           </div>
           <div class="card-body">
             <h2>Free</h2>
+            <p class="img-para"><img class="down-img" src="images/testimonial5.png">
+              <a href="images/testimonial5.png" download="Chainsaw_Man"><button class="down-one">Download</button></a></p>
             <p class="img-para"><img class="down-img" src="images/testimonial3.png">
               <a href="images/testimonial3.png" download="Anime_Blues"><button class="down-one">Download</button></a></p>
             <p class="img-para"><img class="down-img" src="images/testimonial4.png">
