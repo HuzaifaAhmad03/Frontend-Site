@@ -1,5 +1,6 @@
-- Wallpaper Site
-- Basic Using HTML, CSS and JavaScript
+Wallpaper Site
+- Basic website front end
+- Using HTML, CSS and JavaScript
 - Has night mode capabality (Theme change)
 
 ![Screenshot (2574)](https://github.com/HuzaifaAhmad03/Frontend-Site/assets/98657982/176d69e7-f83e-4f88-8f3d-f95ebf1d1118)
